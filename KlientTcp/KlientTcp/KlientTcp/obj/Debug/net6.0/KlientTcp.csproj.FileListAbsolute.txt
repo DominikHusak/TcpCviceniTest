@@ -1,0 +1,15 @@
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\bin\Debug\net6.0\KlientTcp.exe
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\bin\Debug\net6.0\KlientTcp.deps.json
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\bin\Debug\net6.0\KlientTcp.runtimeconfig.json
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\bin\Debug\net6.0\KlientTcp.dll
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\bin\Debug\net6.0\KlientTcp.pdb
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\obj\Debug\net6.0\KlientTcp.csproj.AssemblyReference.cache
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\obj\Debug\net6.0\KlientTcp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\obj\Debug\net6.0\KlientTcp.AssemblyInfoInputs.cache
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\obj\Debug\net6.0\KlientTcp.AssemblyInfo.cs
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\obj\Debug\net6.0\KlientTcp.csproj.CoreCompileInputs.cache
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\obj\Debug\net6.0\KlientTcp.dll
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\obj\Debug\net6.0\refint\KlientTcp.dll
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\obj\Debug\net6.0\KlientTcp.pdb
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\obj\Debug\net6.0\KlientTcp.genruntimeconfig.cache
+C:\Users\areic\source\repos\KlientTcp\KlientTcp\obj\Debug\net6.0\ref\KlientTcp.dll

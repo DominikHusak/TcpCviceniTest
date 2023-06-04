@@ -1,0 +1,30 @@
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\bin\Debug\net6.0\ServeerTCPC3b.exe
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\bin\Debug\net6.0\ServeerTCPC3b.deps.json
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\bin\Debug\net6.0\ServeerTCPC3b.runtimeconfig.json
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\bin\Debug\net6.0\ServeerTCPC3b.dll
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\bin\Debug\net6.0\ServeerTCPC3b.pdb
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.csproj.AssemblyReference.cache
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.AssemblyInfoInputs.cache
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.AssemblyInfo.cs
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.csproj.CoreCompileInputs.cache
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.dll
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\refint\ServeerTCPC3b.dll
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.pdb
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.genruntimeconfig.cache
+C:\Users\areic\source\repos\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ref\ServeerTCPC3b.dll
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\bin\Debug\net6.0\ServeerTCPC3b.exe
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\bin\Debug\net6.0\ServeerTCPC3b.deps.json
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\bin\Debug\net6.0\ServeerTCPC3b.runtimeconfig.json
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\bin\Debug\net6.0\ServeerTCPC3b.dll
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\bin\Debug\net6.0\ServeerTCPC3b.pdb
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.csproj.AssemblyReference.cache
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.AssemblyInfoInputs.cache
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.AssemblyInfo.cs
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.csproj.CoreCompileInputs.cache
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.dll
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\refint\ServeerTCPC3b.dll
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.pdb
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ServeerTCPC3b.genruntimeconfig.cache
+C:\Users\Dominik Husák\Downloads\ServeerTCPC3b\ServeerTCPC3b\ServeerTCPC3b\obj\Debug\net6.0\ref\ServeerTCPC3b.dll
